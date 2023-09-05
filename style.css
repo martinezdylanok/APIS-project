@@ -36,3 +36,8 @@ h1 {
 .search-btn {
    cursor: pointer;
 }
+
+#random-gif,
+#dog-gif {
+   display: none;
+}
