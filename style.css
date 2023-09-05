@@ -39,6 +39,17 @@ h1 {
    padding-left: 10px;
 }
 
+
+#search::placeholder {
+   font-weight: 500;
+}
+
+#search-button {
+   cursor: pointer;
+   border: none;
+   background-color: white;
+}
+
 #random-gif,
 #dog-gif {
    display: none;
