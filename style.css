@@ -13,3 +13,15 @@ h1 {
    font-size: 2rem;
    font-weight: 400;
 }
+
+.container {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   gap: 20px;
+}
+
+#first-container {
+   display: flex;
+   flex-direction: column;
+}
