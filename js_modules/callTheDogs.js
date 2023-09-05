@@ -1,6 +1,6 @@
 function callTheDogs() {
    const DOG_GIF = document.getElementById("dog-gif");
-   const BUTTON = document.querySelector("button");
+   const BUTTON = document.getElementById("dog-button");
 
    BUTTON.remove();
    DOG_GIF.style.display = "flex";
