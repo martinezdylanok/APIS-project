@@ -33,8 +33,10 @@ h1 {
    gap: 10px;
 }
 
-.search-btn {
-   cursor: pointer;
+#search {
+   height: 30px;
+   width: 500px;
+   padding-left: 10px;
 }
 
 #random-gif,
