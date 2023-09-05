@@ -6,4 +6,10 @@ body {
    justify-content: center;
    align-items: center;
    gap: 30px;
+   font-family: var(--font-stack);
+}
+
+h1 {
+   font-size: 2rem;
+   font-weight: 400;
 }
